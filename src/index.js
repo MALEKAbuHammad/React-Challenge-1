@@ -25,7 +25,7 @@ function Intro() {
       <p>
         Full-stack web developer
       </p>
-    </div>s;
+    </div>;
 }
 
 function SkillList() {
