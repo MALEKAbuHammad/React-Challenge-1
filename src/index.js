@@ -22,7 +22,9 @@ function Intro() {
   return (
     <div>
       <h1>Malek AbuHammad</h1>
-      <p>Full-stack web developer</p>
+      <p style={{ fontWeight: "bold", fontSize: "1.3rem" }}>
+        Full-stack web developer
+      </p>
     </div>
   );
 }
