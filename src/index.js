@@ -19,7 +19,13 @@ function Avatar() {
 }
 
 function Intro() {
-  return <h1>Malek AbuHammad</h1>;
+  return     
+    <div>
+      <h1>Malek AbuHammad</h1>
+      <p>
+        Full-stack web developer
+      </p>
+    </div>s;
 }
 
 function SkillList() {
